@@ -1,0 +1,2 @@
+# StaminaUnturned
+Unlimited Stamina
