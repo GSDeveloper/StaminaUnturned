@@ -19,7 +19,6 @@ namespace Stamina
             {
                 UnturnedPlayer uplayer = stpl.ToUnturnedPlayer();
                 uplayer.SetSkillLevel(UnturnedSkill.Exercise, 50);
-                uplayer.SetSkillLevel(UnturnedSkill.Parkour, 255);
             }
         }
     }
