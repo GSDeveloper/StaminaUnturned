@@ -1,15 +1,11 @@
 ﻿using Rocket.API;
-using System.Collections.Generic;
-using System.Xml.Serialization;
 
-namespace Stamina
+namespace StaminaUnturned
 {
-    public class Config : IRocketPluginConfiguration, IDefaultable
+    public class Config : IRocketPluginConfiguration
     {
         public void LoadDefaults()
         {
-
         }
     }
-
 }
